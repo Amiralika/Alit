@@ -1,34 +1,34 @@
 [
   {
     "متن الیت": "هفته ی اول ",
-    "عکس الیت": "https://s4.uupload.ir/files/freefire_iranyan_۲۰۲۱۰۷۰۲_۱۲۱۷۳۳_1_24it.jpg"
+    "عکس الیت": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۸۰۱_۱۰۲۵۴۷_r0bm.jpg"
   },
   {
     "متن الیت": "هفته ی اول ",
-    "عکس الیت": "https://s4.uupload.ir/files/freefire_iranyan_۲۰۲۱۰۷۰۲_۱۲۱۷۳۳_2_d38i.jpg"
+    "عکس الیت": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۸۰۱_۱۰۲۵۲۷_xw78.jpg"
   },
   {
     "متن الیت": "هفته ی دوم",
-    "عکس الیت": "https://s4.uupload.ir/files/freefire_iranyan_۲۰۲۱۰۷۰۲_۱۲۱۷۳۳_3_bjz.jpg"
+    "عکس الیت": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۸۰۱_۱۰۲۵۰۷_x4b.jpg"
   },
   {
     "متن الیت": "هفته ی دوم",
-    "عکس الیت": "https://s4.uupload.ir/files/freefire_iranyan_۲۰۲۱۰۷۰۲_۱۲۱۷۳۳_4_ta0g.jpg"
+    "عکس الیت": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۸۰۱_۱۰۲۴۵۳_7xn9.jpg"
   },
   {
     "متن الیت": "هفته ی سوم",
-    "عکس الیت": "https://s4.uupload.ir/files/freefire_iranyan_۲۰۲۱۰۷۰۲_۱۲۱۷۳۳_5_lnsn.jpg"
+    "عکس الیت": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۸۰۱_۱۰۲۲۴۵_i0dp.jpg"
   },
   {
     "متن الیت": "هفته ی سوم",
-    "عکس الیت": "https://s4.uupload.ir/files/freefire_iranyan_۲۰۲۱۰۷۰۲_۱۲۱۷۳۳_6_sl6z.jpg"
+    "عکس الیت": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۸۰۱_۱۰۲۹۰۱_obof.jpg"
   },
   {
     "متن الیت": "هفته ی چهارم ",
-    "عکس الیت": "https://s4.uupload.ir/files/freefire_iranyan_۲۰۲۱۰۷۰۲_۱۲۱۷۳۳_7_0ysc.jpg"
+    "عکس الیت": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۸۰۱_۱۰۲۲۲۰_ippl.jpg"
   },
   {
     "متن الیت": "هفته ی چهارم ",
-    "عکس الیت": "https://s4.uupload.ir/files/freefire_iranyan_۲۰۲۱۰۷۰۲_۱۲۱۷۳۳_8_8cap.jpg"
+    "عکس الیت": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۸۰۱_۱۰۲۲۰۴_rml.jpg"
   }
 ]
